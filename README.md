@@ -3,8 +3,11 @@ An AI-powered learning companion for NSW Science students (Years 7-10), fully al
 
 Features
 AI Tutor - Interactive chat-based learning with a friendly AI science teacher who provides personalized explanations, Australian examples, and curriculum-aligned content
+
 Quiz Generator - AI-generated quizzes covering Stage 4 and Stage 5 topics with instant feedback and detailed explanations
+
 Resource Recommender - Curated learning resources including YouTube videos, interactive simulations (PhET, LabXchange), free textbooks (OpenStax, OER Commons), and hands-on activities
+
 Progress Tracking - Monitor learning progress across all NESA syllabus outcomes with visual dashboards
 
 Curriculum Coverage
